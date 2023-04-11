@@ -1,3 +1,0 @@
-#!/bin/sh
-echo "Running cgminer script ... "
-exit 0
